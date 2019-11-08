@@ -13,3 +13,23 @@ Underneath the game preview, please click "remix this."
 
 
 
+
+
+
+
+## Possible Improvements
+
+Adjust jump speed (gravity, power)
+
+Randomize height of the platforms
+
+Animate the runner
+
+Keep score based on platforms passed
+
+Add coins and score based on coins collected
+
+Add a pause and "hit any key" for replay
+
+Make it harder by making it faster
+
